@@ -1,0 +1,320 @@
+AcademicYear,Event Name,EventLocation,Month,DayOfWeek,Time,Semester,StudentDiscipline,StudentYear,EventType,EventOrganizer,CompanyIndustry
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Other,1,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Other,2,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,ECE,1,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,ECE,2,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Other,1,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Other,2,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Other,3,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,Track one,1,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,ECE,3,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,ECE,3,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,ECE,2,Demo,Roblox,Gaming
+2022/2023,Roblox Technical Demo,"Bahen Building, Room 1170",October,3,7:00 PM,Fall,INDY,4,Demo,Roblox,Gaming
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,Grad,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CHEM,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CHEM,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,1,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CIV,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,ECE,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MECH,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,EngSci,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,ECE,Grad,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,ECE,PEY,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,ECE,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,EngSci,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MECH,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MSE,1,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MSE,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,ECE,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CIV,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,EngSci,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CHEM,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MSE,Grad,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,Other,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MSE,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MECH,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MECH,4,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,3,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,CHEM,PEY,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,INDY,2,Workshop,ZS Associates,Consulting
+2022/2023,ZS Associates: Case Study Workshop,"Bahen Building, Room 1200",October,2,6:00 PM,Fall,MECH,4,Workshop,ZS Associates,Consulting
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MSE,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MSE,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CIV,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Track one,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MSE,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Track one,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MSE,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CHEM,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CIV,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MECH,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,MSE,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,EngSci,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,2,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,4,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,Grad,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,Other,1,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,CIV,PEY,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,INDY,3,Q&A,BCG Alumni,
+2022/2023,BCG: Alumni Panel and Q&amp;A,"Bahen Building, Room 1180",November,4,6:30 PM,Fall,ECE,Grad,Q&A,BCG Alumni,
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Track one,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,CHEM,PEY,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,PEY,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,INDY,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,Grad,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,PEY,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,MECH,4,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,Other,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,3,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,EngSci,1,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,Scotiabank: STEM in Capital Markets,"Bahen Building, Room 1200",November,4,6:00 PM,Fall,ECE,2,Seminar/ Q&A,Scotioabank,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Track one,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,PEY,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Track one,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,CIV,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,PEY,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Track one,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MSE,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,4,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,Grad,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Track one,1,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,CHEM,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,INDY,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,EngSci,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,Other,3,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,MECH,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,CIBC AI / Data Info Session,"Sandford Fleming Building, Room 1105",February,4,6:30 PM,Winter,ECE,2,Seminar/ Q&A,CIBC,Finance/ Banking
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,EngSci,2,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,ECE,2,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,Other,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,CHEM,Grad,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,ECE,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,EngSci,1,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,CHEM,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,MECH,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,CIV,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,INDY,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,INDY,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,INDY,4,Seminar/ Q&A,TribalScale,Tech
+2022/2023,Success in the Workplace w/ TribalScale,"Sandford Fleming Building, Room 1101",February,3,6:30 PM,Winter,ECE,2,Seminar/ Q&A,TribalScale,Tech
